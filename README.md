@@ -9,7 +9,7 @@ Welcome to my carefully curated IPTV playlist! Yeh project public lists se saare
 
 ## 🔗 Playlist Link (M3U)
 Apne IPTV Player (Tivimate, IPTV Smarters, VLC) mein ye link daalein:
-> `https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPO/main/playlist.m3u`
+> `https://github.com/Source-code-max/IPTV-Max/main/playlist.m3u`
 *(Note: Replace YOUR-USERNAME aur YOUR-REPO with your actual GitHub details)*
 
 ## ⚙️ Recommended Player Settings
