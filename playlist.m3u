@@ -1,12 +1,38 @@
 #EXTM3U x-tvg-url="https://your-epg-source.com/epg.xml"
 
 # ==========================================
-# 1. ENTERTAINMENT 
+# 1. ENTERTAINMENT
 # ==========================================
+
 #EXTINF:-1 tvg-id="StarPlus.in@HD" tvg-logo="" group-title="Entertainment",Star Plus HD
-http://41.205.93.154/STAR-PLUS/index.m3u8
+http://66.102.126.10:8000/play/a008/index.m3u8
+
 #EXTINF:-1 tvg-id="ZeeTV.in@HD" tvg-logo="" group-title="Entertainment",Zee TV HD
 http://41.205.93.154/ZEE-TV/index.m3u8
+
+#EXTINF:-1 tvg-id="SonyEntertainmentTelevision.in@HD" tvg-logo="" group-title="Entertainment",Sony Entertainment Television HD
+https://cloudplay-sonyliv.pages.dev/sethd.m3u8
+
+#EXTINF:-1 tvg-id="SonySAB.in@HD" tvg-logo="" group-title="Entertainment",Sony SAB HD
+https://cloudplay-sonyliv.pages.dev/sabhd.m3u8
+
+#EXTINF:-1 tvg-id="SonyPal.in@SD" tvg-logo="" group-title="Entertainment",Sony Pal
+https://cloudplay-sonyliv.pages.dev/pal.m3u8
+
+#EXTINF:-1 tvg-id="Colors.in@HD" tvg-logo="" group-title="Entertainment",Colors HD
+http://66.102.126.10:8000/play/a00a/index.m3u8
+
+#EXTINF:-1 tvg-id="AndTV.in@HD" tvg-logo="" group-title="Entertainment",&TV HD
+http://202.70.146.135:8000/play/a06c/index.m3u8
+
+#EXTINF:-1 tvg-id="DangalTV.in@SD" tvg-logo="" group-title="Entertainment",Dangal TV
+https://live-dangal.akamaized.net/liveabr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ShemarooUmang.in@SD" tvg-logo="" group-title="Entertainment",Shemaroo Umang
+https://airtelapp.shemaroo.com/shemarooumang/smil:shemarooumangadp.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ColorsRishteyAmericas.in@SD" tvg-logo="" group-title="Entertainment",Colors Rishtey
+https://manatv.akamaized.net/090823/smil:ristheyamerica.smil/playlist.m3u8
 
 # ==========================================
 # 2. NEWS
