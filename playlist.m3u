@@ -3,36 +3,40 @@
 # ==========================================
 # 1. ENTERTAINMENT
 # ==========================================
-
 #EXTINF:-1 tvg-id="StarPlus.in@HD" tvg-logo="" group-title="Entertainment",Star Plus HD
 http://66.102.126.10:8000/play/a008/index.m3u8
-
 #EXTINF:-1 tvg-id="ZeeTV.in@HD" tvg-logo="" group-title="Entertainment",Zee TV HD
 http://41.205.93.154/ZEE-TV/index.m3u8
-
 #EXTINF:-1 tvg-id="SonyEntertainmentTelevision.in@HD" tvg-logo="" group-title="Entertainment",Sony Entertainment Television HD
 https://cloudplay-sonyliv.pages.dev/sethd.m3u8
-
 #EXTINF:-1 tvg-id="SonySAB.in@HD" tvg-logo="" group-title="Entertainment",Sony SAB HD
 https://cloudplay-sonyliv.pages.dev/sabhd.m3u8
-
 #EXTINF:-1 tvg-id="SonyPal.in@SD" tvg-logo="" group-title="Entertainment",Sony Pal
 https://cloudplay-sonyliv.pages.dev/pal.m3u8
-
 #EXTINF:-1 tvg-id="Colors.in@HD" tvg-logo="" group-title="Entertainment",Colors HD
 http://66.102.126.10:8000/play/a00a/index.m3u8
-
 #EXTINF:-1 tvg-id="AndTV.in@HD" tvg-logo="" group-title="Entertainment",&TV HD
 http://202.70.146.135:8000/play/a06c/index.m3u8
-
 #EXTINF:-1 tvg-id="DangalTV.in@SD" tvg-logo="" group-title="Entertainment",Dangal TV
 https://live-dangal.akamaized.net/liveabr/playlist.m3u8
-
 #EXTINF:-1 tvg-id="ShemarooUmang.in@SD" tvg-logo="" group-title="Entertainment",Shemaroo Umang
 https://airtelapp.shemaroo.com/shemarooumang/smil:shemarooumangadp.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ColorsRishteyAmericas.in@SD" tvg-logo="" group-title="Entertainment",Colors Rishtey
+#EXTINF:-1 tvg-id="ColorsRishteyAmericas.in@SD" tvg-logo="" group-title="Entertainment",Colors Rishtey Americas (396p)
 https://manatv.akamaized.net/090823/smil:ristheyamerica.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Dangal2.in@SD" tvg-logo="" group-title="Entertainment",Dangal 2 (720p)
+https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-id="DDNational.in@HD" tvg-logo="" group-title="Entertainment",DD National HD (576p)
+https://mumt01.tangotv.in/O5aw8Zn3DDNATIONALHD/index.m3u8
+#EXTINF:-1 tvg-id="IndiaAhead.in@SD" tvg-logo="" group-title="Entertainment",India Ahead (576p)
+https://mumt05.tangotv.in/87NeALx2INDIAAHEAD/index.m3u8
+#EXTINF:-1 tvg-id="HiDost.in@SD" tvg-logo="" group-title="Entertainment",Hi Dost! (576p)
+https://mumt03.tangotv.in/Dsly5z3HHIDOST/index.m3u8
+#EXTINF:-1 tvg-id="MTV.in@SD" tvg-logo="" group-title="Entertainment",MTV
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:mtvindia.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="EpicBharat.in@Digital" tvg-logo="" group-title="Entertainment",Epic Bharat Digital (1080p)
+https://cc-p1izg43bk7sj5.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p1izg43bk7sj5/DIYC/PMSL/IN10/Nazara_IN_B/Nazara_IN_B.m3u8
+#EXTINF:-1 tvg-id="ColorsGujarati.in@SD" tvg-logo="" group-title="Gujarati-Mix",Colors Gujarati
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ColorsGujarati.m3u8
 
 # ==========================================
 # 2. NEWS
@@ -43,14 +47,104 @@ https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 https://mumt04.tangotv.in/m18aqlK4ABPNEWS/index.m3u8
 #EXTINF:-1 tvg-id="IndiaTV.in@SD" tvg-logo="" group-title="News",India TV
 https://streams.tangotv.in/INDIATV/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="TV9Gujarati.in@SD" tvg-logo="" group-title="Gujarati-Mix",TV9 Gujarati
+https://streams.tangotv.in/TV9GUJARATI/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="FirstIndiaNews.in@SD" tvg-logo="" group-title="Rajasthani-Mix",First India News
+https://mumt03.tangotv.in/Dsly5z3H1STINDIANEWS/index.m3u8
+#EXTINF:-1 tvg-id="HindiKhabar.in@SD" tvg-logo="" group-title="News",Hindi Khabar (396p)
+https://d1msejlow1t3l4.cloudfront.net/fta/hindikhabar/playlist.m3u8
+#EXTINF:-1 tvg-id="AmarUjala.in@SD" tvg-logo="" group-title="News",AmarUjala (1080p)
+https://amarujala.ottlive
+#EXTINF:-1 tvg-id="IndiaDailyLive.in@SD" tvg-logo="" group-title="News",India Daily Live (1080p)
+https://indiadaily.ottlive.co.in/indiadailylive/index.m3u8
+#EXTINF:-1 tvg-id="KhabrainAbhiTak.in@SD" tvg-logo="" group-title="News",Khabrain Abhi Tak (396p)
+https://d1msejlow1t3l4.cloudfront.net/fta/khabreinabhitak/playlist.m3u8
+#EXTINF:-1 tvg-id="BansalNews.in@SD" tvg-logo="" group-title="News",Bansal News (720p)
+https://8yzmq2gbdvax-hls-live.wmncdn.net/bansalnewstv1/live1.stream/playlist.m3u8.co.in/amarujala/index.m3u8
+#EXTINF:-1 tvg-id="ANBNews.in@SD" tvg-logo="" group-title="News",ANB News (720p)
+https://server.livelegitpro.in:9899/anbnews/anbnews/index.m3u8
+#EXTINF:-1 tvg-id="NDTV24x7.in@SD" tvg-logo="" group-title="News",NDTV 24x7 (720p)
+https://d1rc86nwwc9fag.cloudfront.net/v1/vglive-sk-401405/0194a671d8dd1ebd416a3e0a8a4524/0194a67abb941ebd47043cd206ba4f/ndtv247_720p.m3u8
+#EXTINF:-1 tvg-id="GoodNewsToday.in@SD" tvg-logo="" group-title="News",Good News Today (720p)
+https://aajtaklive.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3196cced-ce29-4219-9809-f07ccdaa02b9/vglive-sk-848805/master.m3u8
+#EXTINF:-1 tvg-id="ABPNews.in@SD" tvg-logo="" group-title="News",ABP News (1080p)
+https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-472500/abpnews/master.m3u8
+#EXTINF:-1 tvg-id="ABPGanga.in@SD" tvg-logo="" group-title="News",ABP Ganga (1080p)
+https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ganga-livetv/master.m3u8
+#EXTINF:-1 tvg-id="FirstIndiaNews.in@SD" tvg-logo="" group-title="News",First India News (360p) [Not 24/7]
+https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8
+#EXTINF:-1 tvg-id="AwaazIndiaTV.in@SD" tvg-logo="" group-title="News",Awaaz India TV (720p) [Not 24/7]
+https://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8
+#EXTINF:-1 tvg-id="BharatExpress.in@SD" tvg-logo="" group-title="News",Bharat Express (480p)
+https://stream1.livebox.co.in/VCAREhls/live.m3u8
+#EXTINF:-1 tvg-id="BharatSamachar.in@SD" tvg-logo="" group-title="News",Bharat Samachar (480p)
+https://idvd.multitvsolution.com/idvo/bharatsamachar.m3u8
+#EXTINF:-1 tvg-id="CNBCAwaaz.in@SD" tvg-logo="" group-title="Business / Finance News",CNBC Awaaz (1080p)
+https://n18syndication.akamaized.net/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 tvg-id="DDIndia.in@SD" tvg-logo="" group-title="News",DD India (720p)
+https://d2gvyg6lvauoko.cloudfront.net/230226/ddindia/chunks.m3u8
+#EXTINF:-1 tvg-id="Network10.in@SD" tvg-logo="" group-title="News",Network 10
+https://network10.livebox.co.in/network10hls/live.m3u8
+#EXTINF:-1 tvg-id="HornbillTV.in@SD" tvg-logo="" group-title="News",Hornbill TV (396p)
+https://d1msejlow1t3l4.cloudfront.net/fta/hornbilltv/playlist.m3u8
+#EXTINF:-1 tvg-id="JantaTV.in@SD" tvg-logo="" group-title="News",Janta TV (1080p)
+https://live.jswk.online/IK_RTPM/live/index.m3u8
+#EXTINF:-1 tvg-id="IndiaToday.in@SD" tvg-logo="" group-title="News",India Today (720p)
+https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-293160/master.m3u8
+#EXTINF:-1 tvg-id="IndiaTV.in@SD" tvg-logo="" group-title="News",India TV (720p)
+https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8
+#EXTINF:-1 tvg-id="LivingIndiaNews.in@SD" tvg-logo="" group-title="News",Living India News (1080p)
+https://stream.ottlive.co.in/livingindia/index.m3u8
+#EXTINF:-1 tvg-id="IndiaTVAapKiAdalat.in@SD" tvg-logo="" group-title="News",India TV Aap Ki Adalat (1080p) [Geo-blocked]
+https://amg01550-amg01550c6-samsung-in-4679.playouts.now.amagi.tv/playlist/amg01550-indiatvfast-indiatvakasamsung-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-id="NDTVRajasthan.in@SD" tvg-logo="" group-title="News",NDTV Rajasthan (1080p)
+https://ndtvregional.akamaized.net/hls/live/2102726-b/ndtvraj/master_1.m3u8
+#EXTINF:-1 tvg-id="Mh1News.in@SD" tvg-logo="" group-title="News",Mh 1 News (360p)
+https://livestream.jswk.online/mhonenews/live/index.m3u8
+#EXTINF:-1 tvg-id="NDTVIndia.in@SD" tvg-logo="" group-title="News",NDTV India (480p) [Not 24/7]
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
+#EXTINF:-1 tvg-id="News1India.in@SD" tvg-logo="" group-title="News",News 1 India (396p)
+https://d1msejlow1t3l4.cloudfront.net/fta/news1india/playlist.m3u8
+#EXTINF:-1 tvg-id="IndiaTVSpeedNews.in@HD" tvg-logo="" group-title="News",India TV Speed News (1080p)
+https://cc-lyf4c0hwzg5dd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lyf4c0hwzg5dd/v1/vglive-sk-479089/main.m3u8
+#EXTINF:-1 tvg-id="INH24x7.in@SD" tvg-logo="" group-title="News",INH 24x7 (360p)
+https://7epd6o8edk9b-hls-live.wmncdn.net/inh24/live.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="JK24x7News.in@SD" tvg-logo="" group-title="News",JK 24x7 News (720p) [Not 24/7]
+https://live.gulistannews.in/hls/jk.m3u8
+#EXTINF:-1 tvg-id="KashishNews.in@SD" tvg-logo="" group-title="News",Kashish News (720p)
+https://server.thelegitpro.in/kashishnews/kashishnews/index.m3u8
+#EXTINF:-1 tvg-id="Nepal1.in@SD" tvg-logo="" group-title="News",Nepal 1
+https://cdn.pishow.tv/ott/live/1490/master.m3u8
+#EXTINF:-1 tvg-id="News9Live.in@SD" tvg-logo="" group-title="News",News9Live (720p)
+https://vg-tv9yupp.vgcdn.net/vglive-sk-526536/v1/019e01ace8511ea540a871e333268/019e01ad3da31ea55784752988551/main.m3u8
+#EXTINF:-1 tvg-id="News11.in@SD" tvg-logo="" group-title="News",News 11 (396p)
+https://d1msejlow1t3l4.cloudfront.net/fta/news11bharat/playlist.m3u8
+#EXTINF:-1 tvg-id="News18AssamNorthEast.in@SD" tvg-logo="" group-title="News",News18 Assam North-East (1080p)
+https://n18syndication.akamaized.net/bpk-tv/News18_Assam_North_East_NW18_MOB/output01/master.m3u8
 
 # ==========================================
 # 3. BUSINESS / FINANCE NEWS
 # ==========================================
-#EXTINF:-1 tvg-id="CNBCAwaaz.in@SD" tvg-logo="" group-title="Business / Finance News",CNBC Awaaz
-https://n18syndication.akamaized.net/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/master.m3u8
 #EXTINF:-1 tvg-id="ZeeBusiness.in@SD" tvg-logo="" group-title="Business / Finance News",Zee Business
 https://dwby15d04agvq.cloudfront.net/index_5.m3u8
+#EXTINF:-1 tvg-id="BTTV.in@SD" tvg-logo="" group-title="Business / Finance News",BT TV (720p)
+https://feeds.intoday.in/bttv/itgd.m3u8
+#EXTINF:-1 tvg-id="CNBCTV18.in@SD" tvg-logo="" group-title="Business / Finance News",CNBC TV18 (1080p)
+https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 tvg-id="CNBCTV18PrimeHD.in@SD" tvg-logo="" group-title="Business / Finance News",CNBC TV18 Prime HD (1080p)
+https://n18syndication.akamaized.net/bpk-tv/CNBC_Tv18_Prime_HD_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 tvg-id="CNBCBajar.in@SD" tvg-logo="" group-title="Business / Finance News",CNBC Bajar (1080p)
+https://n18syndication.akamaized.net/bpk-tv/CNBC_Bazaar_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 tvg-id="CnewsBharat.in@SD" tvg-logo="" group-title="Business / Finance News",Cnews Bharat (720p)
+https://legitpro.co.in/cnews/cnews/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="ETNow.in@SD" tvg-logo="" group-title="Business / Finance News",ET Now (720p) [Geo-blocked]
+https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etnow/etnow_master.m3u8
+#EXTINF:-1 tvg-id="IndywoodTV.in@SD" tvg-logo="" group-title="Business / Finance News",Indywood TV (720p)
+https://43wrzjnpqoxe-hls-live.wmncdn.net/indywood/indywoodtv/index.m3u8
+#EXTINF:-1 tvg-id="NDTVProfit.in@SD" tvg-logo="" group-title="Business / Finance News",NDTV Profit (1080p)
+https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/chunklist_5.m3u8
+#EXTINF:-1 tvg-id="News9Live.in@SD" tvg-logo="" group-title="Business / Finance News",News9Live (1080p)
+https://amg01106-amg01106c3-amgplt0844.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg01106-amg01106c3-amgplt0844/playlist.m3u8
 
 # ==========================================
 # 4. MOVIES
@@ -83,25 +177,41 @@ https://cloudplay-sonyliv.pages.dev/yay.m3u8
 https://wiselp.wiseplayout.com/9XM/master.m3u8
 #EXTINF:-1 tvg-id="B4UMusic.in@India" tvg-logo="" group-title="Music",B4U Music
 https://streams.tangotv.in/B4UMUSIC/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="BalleBalle.in@HD" tvg-logo="" group-title="Music",Balle Balle HD (720p)
+https://mcncdndigital.com/balleballetv/index.m3u8
+#EXTINF:-1 tvg-id="EpicMusic.in@SD" tvg-logo="" group-title="Music",Epic Music (576p)
+https://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8
 
 # ==========================================
-# 8. LIFESTYLE, FOOD & TRAVEL
+# 8. INFORMATION, FOOD & TRAVEL
 # ==========================================
 #EXTINF:-1 tvg-id="FoodFood.in@SD" tvg-logo="" group-title="Lifestyle, Food & Travel",Food Food
 https://mumt03.tangotv.in/Dsly5z3HFOODFOOD/index.m3u8
 #EXTINF:-1 tvg-id="ZeeZest.in@HD" tvg-logo="" group-title="Lifestyle, Food & Travel",Zee Zest HD
 http://107.167.16.138/zeezesthd/index.m3u8?token=test
+#EXTINF:-1 tvg-id="HistoryTV18.in@HD" tvg-logo="" group-title="Lifestyle, Food & Travel",History TV18 HD Hindi (1080p) [Geo-blocked]
+https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/ts-ap-s1-n1/playlist/amg01448-samsungindia-historychannelhindi-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-id="EpicTV.in@Digital" tvg-logo="" group-title="Lifestyle, Food & Travel",Epic TV Digital (1080p)
+https://cc-czbq30x55knit.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-czbq30x55knit/DIYC/PMSL/IN10/Epic_TV_IN_B/Epic_TV_IN_B.m3u8
+#EXTINF:-1 tvg-id="NDTVGoodTimes.in@SD" tvg-logo="" group-title="Lifestyle, Food & Travel",NDTV Good Times (1080p)
+https://amg01448-samsungin-ndtvgoodtimes-samsungin-ad-gp.amagi.tv/playlist/amg01448-samsungin-ndtvgoodtimes-samsungin/playlist.m3u8
 
 # ==========================================
-# 9. GUJARATI-MIX
+# 9. BHAJAN
 # ==========================================
-#EXTINF:-1 tvg-id="TV9Gujarati.in@SD" tvg-logo="" group-title="Gujarati-Mix",TV9 Gujarati
-https://streams.tangotv.in/TV9GUJARATI/ORIGIN/index.m3u8
-#EXTINF:-1 tvg-id="ColorsGujarati.in@SD" tvg-logo="" group-title="Gujarati-Mix",Colors Gujarati
-https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ColorsGujarati.m3u8
-
-# ==========================================
-# 10. RAJASTHANI-MIX
-# ==========================================
-#EXTINF:-1 tvg-id="FirstIndiaNews.in@SD" tvg-logo="" group-title="Rajasthani-Mix",First India News
-https://mumt03.tangotv.in/Dsly5z3H1STINDIANEWS/index.m3u8
+#EXTINF:-1 tvg-id="IshwarBhaktiTV.in@SD" tvg-logo="" group-title="Bhajan",Ishwar Bhakti TV (720p)
+https://6n3yow8pl9ok-hls-live.5centscdn.com/ishwartvlive/tv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="GangaurTV.in@SD" tvg-logo="" group-title="Bhajan",Gangaur TV (1080p)
+https://pbgangaur.wiseplayout.com/Gangaur/master.m3u8
+#EXTINF:-1 tvg-id="Aastha.in@HD" tvg-logo="" group-title="Bhajan",Aastha (720p)
+https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/index.m3u8
+#EXTINF:-1 tvg-id="AasthaBhajan.in@SD" tvg-logo="" group-title="Bhajan",Aastha Bhajan (576p)
+https://mumt05.tangotv.in/87NeALx2AASTHABHAJAN/index.m3u8
+#EXTINF:-1 tvg-id="AasthaGujarati.in@SD" tvg-logo="" group-title="Bhajan",Aastha Gujarati (576p)
+https://mumt04.tangotv.in/m18aqlK4AASTHAGUJARATI/index.m3u8
+#EXTINF:-1 tvg-id="AasthaPrime1.in@SD" tvg-logo="" group-title="Bhajan",Aastha Prime 1 (720p)
+https://aasthaott.akamaized.net/110923/smil:aasthaprime1.smil/master.m3u8
+#EXTINF:-1 tvg-id="AdhyatmTV.in@SD" tvg-logo="" group-title="Bhajan",Adhyatm TV (720p)
+https://mumbai-edge.smartplaytv.in/AdhyatmTV/index.m3u8
+#EXTINF:-1 tvg-id="ChannelDivya.in@SD" tvg-logo="" group-title="Bhajan",Channel Divya (1080p)
+https://mumbai-edge.smartplaytv.in/channeldivya/index.m3u8
