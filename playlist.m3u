@@ -1,0 +1,81 @@
+#EXTM3U x-tvg-url="https://your-epg-source.com/epg.xml"
+
+# ==========================================
+# 1. ENTERTAINMENT 
+# ==========================================
+#EXTINF:-1 tvg-id="StarPlus.in@HD" tvg-logo="" group-title="Entertainment",Star Plus HD
+http://41.205.93.154/STAR-PLUS/index.m3u8
+#EXTINF:-1 tvg-id="ZeeTV.in@HD" tvg-logo="" group-title="Entertainment",Zee TV HD
+http://41.205.93.154/ZEE-TV/index.m3u8
+
+# ==========================================
+# 2. NEWS
+# ==========================================
+#EXTINF:-1 tvg-id="AajTak.in@HD" tvg-logo="" group-title="News",Aaj Tak HD
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+#EXTINF:-1 tvg-id="ABPNews.in@SD" tvg-logo="" group-title="News",ABP News
+https://mumt04.tangotv.in/m18aqlK4ABPNEWS/index.m3u8
+#EXTINF:-1 tvg-id="IndiaTV.in@SD" tvg-logo="" group-title="News",India TV
+https://streams.tangotv.in/INDIATV/ORIGIN/index.m3u8
+
+# ==========================================
+# 3. BUSINESS / FINANCE NEWS
+# ==========================================
+#EXTINF:-1 tvg-id="CNBCAwaaz.in@SD" tvg-logo="" group-title="Business / Finance News",CNBC Awaaz
+https://n18syndication.akamaized.net/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 tvg-id="ZeeBusiness.in@SD" tvg-logo="" group-title="Business / Finance News",Zee Business
+https://dwby15d04agvq.cloudfront.net/index_5.m3u8
+
+# ==========================================
+# 4. MOVIES
+# ==========================================
+#EXTINF:-1 tvg-id="Goldmines.in@SD" tvg-logo="" group-title="Movies",Goldmines
+https://mumt04.tangotv.in/m18aqlK4GOLDMINES/index.m3u8
+#EXTINF:-1 tvg-id="B4UMovies.in@India" tvg-logo="" group-title="Movies",B4U Movies
+https://mumt06.tangotv.in/qYyB8fXVB4UMOVIES/index.m3u8
+
+# ==========================================
+# 5. RETRO MOVIES
+# ==========================================
+#EXTINF:-1 tvg-id="ZeeClassic.in@SD" tvg-logo="" group-title="Retro Movies",Zee Classic
+http://107.167.16.138/zeeclassic/index.m3u8?token=test
+#EXTINF:-1 tvg-id="SonyMax2.in@SD" tvg-logo="" group-title="Retro Movies",Sony Max 2
+https://cloudplay-sonyliv.pages.dev/max2.m3u8
+
+# ==========================================
+# 6. KIDS
+# ==========================================
+#EXTINF:-1 tvg-id="Nickelodeon.in@SD" tvg-logo="" group-title="Kids",Nickelodeon
+http://103.185.24.134:3001/NICK/index.m3u8
+#EXTINF:-1 tvg-id="SonyYay.in@SD" tvg-logo="" group-title="Kids",Sony Yay!
+https://cloudplay-sonyliv.pages.dev/yay.m3u8
+
+# ==========================================
+# 7. MUSIC
+# ==========================================
+#EXTINF:-1 tvg-id="9XM.in@SD" tvg-logo="" group-title="Music",9XM
+https://wiselp.wiseplayout.com/9XM/master.m3u8
+#EXTINF:-1 tvg-id="B4UMusic.in@India" tvg-logo="" group-title="Music",B4U Music
+https://streams.tangotv.in/B4UMUSIC/ORIGIN/index.m3u8
+
+# ==========================================
+# 8. LIFESTYLE, FOOD & TRAVEL
+# ==========================================
+#EXTINF:-1 tvg-id="FoodFood.in@SD" tvg-logo="" group-title="Lifestyle, Food & Travel",Food Food
+https://mumt03.tangotv.in/Dsly5z3HFOODFOOD/index.m3u8
+#EXTINF:-1 tvg-id="ZeeZest.in@HD" tvg-logo="" group-title="Lifestyle, Food & Travel",Zee Zest HD
+http://107.167.16.138/zeezesthd/index.m3u8?token=test
+
+# ==========================================
+# 9. GUJARATI-MIX
+# ==========================================
+#EXTINF:-1 tvg-id="TV9Gujarati.in@SD" tvg-logo="" group-title="Gujarati-Mix",TV9 Gujarati
+https://streams.tangotv.in/TV9GUJARATI/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="ColorsGujarati.in@SD" tvg-logo="" group-title="Gujarati-Mix",Colors Gujarati
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ColorsGujarati.m3u8
+
+# ==========================================
+# 10. RAJASTHANI-MIX
+# ==========================================
+#EXTINF:-1 tvg-id="FirstIndiaNews.in@SD" tvg-logo="" group-title="Rajasthani-Mix",First India News
+https://mumt03.tangotv.in/Dsly5z3H1STINDIANEWS/index.m3u8
